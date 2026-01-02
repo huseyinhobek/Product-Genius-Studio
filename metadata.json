@@ -1,0 +1,7 @@
+{
+  "name": "ProductGenius Studio",
+  "description": "Professional AI-powered product visualization tool for businesses. Transform standard photos into commercial studio shots.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
